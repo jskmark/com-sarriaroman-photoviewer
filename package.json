@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sarriaroman/photoviewer"
+    "url": "https://github.com/jskmark/com-sarriaroman-photoviewer"
   },
   "keywords": [
     "cordova",
@@ -34,6 +34,6 @@
       "version": ">=4.2.0"
     }
   ],
-  "author": "Román A. Sarria",
+  "author": "Jsk",
   "license": "MIT"
 }
